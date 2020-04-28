@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string name="SecMenu">Перейти</string>
+    <string name="SendMessage">Нажми</string>
+    <string name="Send">Получить данные</string>
+    <string name="SendDan">Считать данные со строки</string>
+    <string name="AnonimSend">Полученные данные</string>
+    <string name="AN">Здесь можно выслать тайное сообщение</string>
+    <string name="SendAN">Говорю же, неизвестно, что здесь написано, хочешь рискнуть?</string>
+    <string name="SendMA">А еще можно вернуть сообщение на первую страницу, хоча это совсем не интересно))</string>
+    <string name="Qu">Послединй вопрос. Кто это?</string>
+    <string name="QueButton">Богдан Хмельницкий</string>
+    <string name="DIQu">Решить один совсем не интересный вопрос</string>
+    <string name="OfCourseButton5">Конечно да!</string>
+    <string name="Ivan">Иван Запорожец</string>
+</resources>
